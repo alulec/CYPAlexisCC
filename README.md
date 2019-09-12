@@ -7,8 +7,8 @@ Aqui va una **reposicion** del *repositorio*
 -ELEMENTO2
 -ELEMENTO3
 
-´´´
+```
 
 num = 10
-print("num vale: ", num
-´´´)
+print("num vale: ", num)
+```
