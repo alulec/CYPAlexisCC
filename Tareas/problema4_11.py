@@ -13,7 +13,7 @@ if (1 <= tps <= 30) and (1 <= tpc <= 30) and (1 <= tpn <= 30):
     i = 1
     sur= []
     while (i <= tps):
-        nue = input("Ingrese el nombre dl pais: ")
+        nue = input("Ingrese el nombre del pais: ")
         sur.append(nue)
         i += 1
         sur.sort()
@@ -21,7 +21,7 @@ if (1 <= tps <= 30) and (1 <= tpc <= 30) and (1 <= tpn <= 30):
     i = 1
     centro= []
     while (i <= tps):
-        nue = input("Ingrese el nombre dl pais: ")
+        nue = input("Ingrese el nombre del pais: ")
         centro.append(nue)
         i += 1
         centro.sort()
