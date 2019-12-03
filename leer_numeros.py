@@ -28,7 +28,6 @@ lista_num2 = str(numeros2)
 
 #print("\n ", numeros2 , "\n")
 #print(f"El mayor es : {lista_num[-1]} y el menor es: {lista_num[0]}")
-#print(f"El mayor es : {lista_num[-1]} y el menor es: {lista_num[0]}")
 archivo.close()
 
 """
