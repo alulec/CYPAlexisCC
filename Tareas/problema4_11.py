@@ -20,7 +20,7 @@ if (1 <= tps <= 30) and (1 <= tpc <= 30) and (1 <= tpn <= 30):
     print("Ingrese los nobres de los paises de Centroamerica.")
     i = 1
     centro= []
-    while (i <= tps):
+    while (i <= tpc):
         nue = input("Ingrese el nombre del pais: ")
         centro.append(nue)
         i += 1
@@ -28,7 +28,7 @@ if (1 <= tps <= 30) and (1 <= tpc <= 30) and (1 <= tpn <= 30):
     print("Ingrese los nobres de los paises de Norteamerica.")
     i = 1
     norte= []
-    while (i <= tps):
+    while (i <= tpn):
         nue = input("Ingrese el nombre del pais: ")
         norte.append(nue)
         i += 1
